@@ -8,12 +8,12 @@ Then copy the `.env.example` file to `.env` and replace the example values with 
 
 The contract address for the NFT collection:
 ```
-CONTRACT_ADDRESS=0x196c4C7291D47BCDBbf37ab7ec9AE7ECB21Aef52
+CONTRACT_ADDRESS=0x8943c7bac1914c9a7aba750bf2b6b09fd21037e0
 ```
 
-The collection slug as found in the OS URL `https://opensea.io/collection/picassopunks`:
+The collection slug as found in the OS URL `https://opensea.io/collection/lazy-lions`:
 ```
-COLLECTION_SLUG=picassopunks
+COLLECTION_SLUG=lazy-lions
 ```
 
 The Id of the discord channel to post sales to:
